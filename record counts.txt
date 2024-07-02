@@ -1,0 +1,8 @@
+@1100
+Record count for Warehouse:              1,141
+Record count for ProductV2:             88,177
+Record count for ReleasedProductV2:     87,760
+Record count for SalesOrderHeaderV3: 3,301,257
+Record count for SalesOrderLine:    26,378,621
+Record count for TransferOrderHeader:  216,020
+Record count for TransferOrderLine:  3,383,845
